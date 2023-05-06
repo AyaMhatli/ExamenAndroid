@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <string name="app_name">project7</string>
+    <string name="appwidget_text">Currency Converter</string>
+    <string name="add_widget">Add widget</string>
+    <string name="convert_button_text">Go</string>
+    <string name="conversion_rate">conversion_rate</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="select_source_currency">Choose Currency source</string>
+    <string name="convert_from">convert_from</string>
+    <string name="amount_to_convert">amount_to_convert</string>
+    <string name="aya">Exchange rates</string>
+    <string name="retou">Back</string></resources>
